@@ -1,0 +1,9 @@
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+clf	/home/lkb/JR/600kReport/ml4sf-500kdataset/svm/binary_svm.py	/^    clf = svm.SVC(C=_c, degree=3, gamma=g, class_weight=weights, cache_size=1000) $/;"	v	language:Python	class:Metrics
+compute_metrics	/home/lkb/JR/600kReport/ml4sf-500kdataset/svm/binary_svm.py	/^    def compute_metrics(self, model, X_tst, Y_tst):$/;"	m	language:Python	class:Metrics
+get_data_train_tst	/home/lkb/JR/600kReport/ml4sf-500kdataset/svm/binary_svm.py	/^def get_data_train_tst(train_csv, tst_csv, cols, trh, target):$/;"	f	language:Python
+m	/home/lkb/JR/600kReport/ml4sf-500kdataset/svm/binary_svm.py	/^    m = Metrics()$/;"	v	language:Python	class:Metrics
+Metrics	/home/lkb/JR/600kReport/ml4sf-500kdataset/svm/binary_svm.py	/^class Metrics():$/;"	c	language:Python
+weights	/home/lkb/JR/600kReport/ml4sf-500kdataset/svm/binary_svm.py	/^    weights = {0:w["0"], 1:w["1"]}$/;"	v	language:Python	class:Metrics
+__init__	/home/lkb/JR/600kReport/ml4sf-500kdataset/svm/binary_svm.py	/^    def __init__(self):$/;"	m	language:Python	class:Metrics
+__str__	/home/lkb/JR/600kReport/ml4sf-500kdataset/svm/binary_svm.py	/^    def __str__(self):$/;"	m	language:Python	class:Metrics	file:

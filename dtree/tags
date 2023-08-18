@@ -1,0 +1,11 @@
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+clf	/home/lkb/JR/600kReport/ml4sf-500kdataset/dtree/tree.py	/^    clf = clf.fit(X_tr, Y_tr)$/;"	v	language:Python	class:Metrics
+clf	/home/lkb/JR/600kReport/ml4sf-500kdataset/dtree/tree.py	/^    clf = tree.DecisionTreeClassifier(max_depth=depth)$/;"	v	language:Python	class:Metrics
+compute_metrics	/home/lkb/JR/600kReport/ml4sf-500kdataset/dtree/tree.py	/^    def compute_metrics(self, model, X_tst, Y_tst):$/;"	m	language:Python	class:Metrics
+depth	/home/lkb/JR/600kReport/ml4sf-500kdataset/dtree/tree.py	/^    depth = None # if max_depth is set to -1, use maximally deep tree (i.e. pure leaf classes)$/;"	v	language:Python	class:Metrics
+get_data_train_tst	/home/lkb/JR/600kReport/ml4sf-500kdataset/dtree/tree.py	/^def get_data_train_tst(train_csv, tst_csv, cols, trh, target):$/;"	f	language:Python
+m	/home/lkb/JR/600kReport/ml4sf-500kdataset/dtree/tree.py	/^    m = Metrics()$/;"	v	language:Python	class:Metrics
+Metrics	/home/lkb/JR/600kReport/ml4sf-500kdataset/dtree/tree.py	/^class Metrics():$/;"	c	language:Python
+t	/home/lkb/JR/600kReport/ml4sf-500kdataset/dtree/tree.py	/^    t = d["DRCThreshold"]$/;"	v	language:Python	class:Metrics
+__init__	/home/lkb/JR/600kReport/ml4sf-500kdataset/dtree/tree.py	/^    def __init__(self):$/;"	m	language:Python	class:Metrics
+__str__	/home/lkb/JR/600kReport/ml4sf-500kdataset/dtree/tree.py	/^    def __str__(self):$/;"	m	language:Python	class:Metrics	file:
