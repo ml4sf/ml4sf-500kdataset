@@ -7,5 +7,5 @@
 - Decompression:
 ```
 sudo apt install lrzip
-lrunzip 600kDatasetFileredNoWarnSmallDRCShuffled.csv.lrz
+lrunzip Dataset470K.csv.lrz
 ```
