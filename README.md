@@ -20,5 +20,5 @@ estimated by the computational protocol used to compute the diradicl character o
 in the dataset)
 
 ## Citation:
-L. Borislavov, M. Nedyalkova, A. Tadjer, O. Aydemir, J. Romanova *. Phys. Chem. Lett.*, 
-**2023**, *4*,10103–10112*, <https://doi.org/10.1021/acs.jpclett.3c02365>
+L. Borislavov, M. Nedyalkova, A. Tadjer, O. Aydemir, J. Romanova *J. Phys. Chem. Lett.*, 
+**2023**, *4*, 10103–10112, <https://doi.org/10.1021/acs.jpclett.3c02365>
